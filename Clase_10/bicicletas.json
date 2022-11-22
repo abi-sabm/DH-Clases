@@ -1,0 +1,123 @@
+[
+    {
+        "id" : 1,
+        "marca" : "Empire",
+        "modelo" : "Sun",
+        "rodado" : 14,
+        "anioFabricacion" : 2019,
+        "color" : "Celeste",
+        "peso" : 10,
+        "tipo" : "Montaña",
+        "precio" : 150000,
+        "vendida" : true
+    },
+    {
+        "id" : 2,
+        "marca" : "D-Punk",
+        "modelo" : "FTF",
+        "rodado" : 16,
+        "anioFabricacion" : 2020,
+        "color" : "Negro",
+        "peso" : 12,
+        "tipo" : "Montaña",
+        "precio" : 120000,
+        "vendida" : true
+    },
+    {
+        "id" : 3,
+        "marca" : "Battle",
+        "modelo" : "Classic",
+        "rodado" : 28,
+        "anioFabricacion" : 2018,
+        "color" : "Bronce",
+        "peso" : 16,
+        "tipo" : "Retro",
+        "precio" : 60000,
+        "vendida" : false
+    },
+    {
+        "id" : 4,
+        "marca" : "S&S",
+        "modelo" : "Kangaroo",
+        "rodado" : 16,
+        "anioFabricacion" : 2021,
+        "color" : "Amarillo",
+        "peso" : 8,
+        "tipo" : "Triatlon",
+        "precio" : 180000,
+        "vendida" : false
+    },
+    {
+        "id" : 5,
+        "marca" : "SLP",
+        "modelo" : "Sunshine",
+        "rodado" : 24,
+        "anioFabricacion" : 2022,
+        "color" : "Rojo",
+        "peso" : 12,
+        "tipo" : "Paseo",
+        "precio" : 70000,
+        "vendida" : true
+    },
+    {
+        "id" : 6,
+        "marca" : "Halley",
+        "modelo" : "34Clear",
+        "rodado" : 18,
+        "anioFabricacion" : 2017,
+        "color" : "Rosa",
+        "peso" : 9,
+        "tipo" : "Triatlon",
+        "precio" : 110000,
+        "vendida" : false
+    },
+    {
+        "id" : 7,
+        "marca" : "Fixie",
+        "modelo" : "Lady",
+        "rodado" : 26,
+        "anioFabricacion" : 2015,
+        "color" : "Aqua",
+        "peso" : 13,
+        "tipo" : "Paseo",
+        "precio" : 65000,
+        "vendida" : true
+    },
+    {
+        "id" : 8,
+        "marca" : "Lykke",
+        "modelo" : "Rivers",
+        "rodado" : 20,
+        "anioFabricacion" : 2013,
+        "color" : "Gris",
+        "peso" : 10,
+        "tipo" : "Triatlon",
+        "precio" : 135000,
+        "vendida" : false
+    },
+    {
+        "id" : 9,
+        "marca" : "M83",
+        "modelo" : "Midnight",
+        "rodado" : 24,
+        "anioFabricacion" : 2022,
+        "color" : "Morado",
+        "peso" : 15,
+        "tipo" : "Retro",
+        "precio" : 45000,
+        "vendida" : false
+    }
+    ,
+    {
+        "id" : 10,
+        "marca" : "Gorillaz",
+        "modelo" : "Dare",
+        "rodado" : 16,
+        "anioFabricacion" : 2022,
+        "color" : "Naranja",
+        "peso" : 14,
+        "tipo" : "Montaña",
+        "precio" : 170000,
+        "vendida" : true
+    }
+]
