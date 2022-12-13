@@ -1,0 +1,165 @@
+/* Configuración para todo el css */
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+/* Body - Cuerpo */
+
+body {
+    font-family: "Roboto", sans-serif;
+    background-color: #ebebeb;
+}
+
+h3 {
+    font-size: 24px;
+}
+
+p {
+    font-size: 12px;
+}
+
+/* Header - Encabezado */
+
+header {
+    background-color: #eac926;
+}
+
+/* div principal: se desprende el resto de div */
+
+header div.top-header {
+    padding: 5%;
+}
+
+/* Sección logo, barra de busqueda (.form .input y .form . submit) y comprar en cuotas (div.top-header p) */
+
+header div.logo {
+    width: 50%;
+    padding: 10px;
+}
+
+header .form .input {
+    background-color: #fff;
+    border: 1px solid #000;
+    outline: none;
+    color: #666;
+    padding: 2px;
+}
+
+header .form .submit {
+    background-color: #fff;
+    border: 1px solid #000;
+    color: #666;
+    width: 10%;
+}
+
+header div.top-header p {
+    width: 100%;
+    text-align: center;
+    margin-top: 10px;
+}
+
+/* Sección de listado */
+
+header nav {
+    font-size: 12px;
+    padding-left: 5px;
+}
+
+header ul li {
+    list-style-type: none;
+}
+
+header ul li a {
+    text-decoration: none;
+    color: #000;
+}
+
+/* Sección botón burger */
+
+div.burger-menu {
+    text-align: center;
+}
+
+div.burger-menu i /* ícono */ {
+    background-color: #0044aa;
+    border-radius: 5px;
+    color: #fff;
+    font-size: 20px;
+    height: 40px;
+    margin: 10px 0px 20px 0px;
+    padding: 10px;
+    width: 40px;
+}
+
+/* Sección banner*/
+
+section.banner img {
+    width: 100%;
+}
+
+/* Main */
+
+main {
+    width: 90%;
+    margin: 0 auto;
+}
+
+section.last-visit h3{
+    text-align: center;
+}
+
+/* Sección artículos */
+
+main section article {
+    background-color: #fff;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+main section article img {
+    width: 100%;
+}
+
+article div.main-article {
+    border-top: solid 1px #ebebeb;
+    padding: 15px;
+}
+
+main section article i {
+    border: 2px #39b54a;
+    border-radius:10% ;
+}
+
+i {
+    border: 2px #39b54a;
+    border-radius:10% ;
+}
+
+.price {
+    font-size: 18px;
+}
+
+.discount,
+.description {
+    font-size: 16px;
+    font-weight: normal;
+}
+
+h3,
+.description {
+    color: #666;
+}
+
+main section article i /* ícono */,
+.discount {
+    color: #39b54a;
+}
+
+/* Footer */
+
+footer {
+    text-align: center;
+}
+
+
